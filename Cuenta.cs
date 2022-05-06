@@ -21,7 +21,7 @@ namespace PairCHallenge4
             Console.WriteLine($"DNI: {_Dni}");
             Console.WriteLine($"Edad: {_Edad}");
 
-            Console.WriteLine($"Cantidad: {_cantidad}");
+            Console.WriteLine($"Cantidad: {_Edad}");
 
         }
 
